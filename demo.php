@@ -1,3 +1,3 @@
 <?php 
-	echo "This Is My First Example";
+	echo "This Is My First Example of site2";
 ?>
